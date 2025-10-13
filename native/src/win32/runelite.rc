@@ -11,9 +11,9 @@ BEGIN
     BEGIN
         BLOCK "040904B0"
         BEGIN
-            VALUE "FileDescription",  "Jirenyte"
-            VALUE "OriginalFilename", "Jirenyte.exe"
-            VALUE "ProductName",      "Jirenyte Launcher"
+            VALUE "FileDescription",  "LuzoxPK"
+            VALUE "OriginalFilename", "LuzoxPK.exe"
+            VALUE "ProductName",      "LuzoxPK Launcher"
         END
     END
 
